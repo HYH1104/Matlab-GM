@@ -1,2 +1,2 @@
 # Matlab-GM
-基于matlab的GM预测
+基于matlab的gm预测
